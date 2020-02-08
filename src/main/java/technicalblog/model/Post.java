@@ -1,4 +1,4 @@
-package technicalblog.domain;
+package technicalblog.model;
 
 import java.util.Date;
 
